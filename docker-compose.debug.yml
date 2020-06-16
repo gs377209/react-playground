@@ -1,8 +1,8 @@
 version: '3.4'
 
 services:
-  react-v3:
-    image: react-v3
+  react-playground:
+    image: react-playground
     build: .
     environment:
       NODE_ENV: development
